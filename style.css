@@ -27,3 +27,23 @@
     font-size: 20px;
     line-height: 30px;
 }
+.about {
+    
+    margin-top: 80px;
+}
+span {
+    color: #ba8a96;
+}
+.about h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.facts{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.paragragh {
+    text-align: center;
+}
