@@ -47,3 +47,20 @@ span {
 .paragragh {
     text-align: center;
 }
+.gallery{
+    display: flex;
+    justify-content: space-around;
+}
+.pictures h3 {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.pic {
+    border: 2px solid #ba91ba;
+    border-radius: 20px;
+    box-shadow: 8px 4px 4px #ba91ba;
+    padding: 10px;
+    margin-bottom: 30px;
+    
+}
