@@ -16,3 +16,14 @@
 .paw {
     font-size: 50px;
 }
+.display {
+    background-image: url("australian-shepherd-g57157f472_1920.jpg");
+    height: 100vh;
+    
+}
+.motto {
+    padding-top: 300px;
+    padding-left: 40px;
+    font-size: 20px;
+    line-height: 30px;
+}
