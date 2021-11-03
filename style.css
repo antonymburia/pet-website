@@ -54,7 +54,7 @@ span {
 .pictures h3 {
     text-align: center;
     font-size: 40px;
-    text-decoration: underline;
+    text-decoration: underline #ba91ba;
 }
 .pic {
     border: 2px solid #ba91ba;
@@ -63,4 +63,8 @@ span {
     padding: 10px;
     margin-bottom: 30px;
     
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
 }
